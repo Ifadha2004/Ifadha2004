@@ -75,20 +75,22 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [GasByGas](https://github.com/Ifadha2004/GasByGas) | Online Gas Delivery Request System | `TypeScript`, `Node.js`, `MongoDB` |
-| [FinBuddy](https://github.com/Ifadha2004/FinBuddy) | AI-based Banking ChatBot | `Python`, `NLP` |
+| [GasByGas](https://github.com/Ifadha2004/GasByGas) | Online Gas Delivery Request System | `TypeScript`, `Next.js`, `MySQL` |
+| [FinBuddy](https://github.com/Ifadha2004/FinBuddy) | AI-based Banking ChatBot | `Python`, `NLP`, `HTML/CSS` |
 | [FlaskBlog](https://github.com/Ifadha2004/FlaskBlog) | Blog Platform using Flask | `Python`, `Flask`, `HTML/CSS` |
-| [TravelMate](https://github.com/Ifadha2004/TravelMate) | Trivial ChatBot for travel trivia | `Python`, `AI` |
+| [TravelMate](https://github.com/Ifadha2004/TravelMate) | Trivial ChatBot for travel trivia | `Python`, `AI` , `HTML/CSS` |
 | [BookHaven](https://github.com/Ifadha2004/BookHaven) | Bookstore Inventory System | `C#`, `.NET`, `WinForms` |
 | [Ifadha-Portfolio](https://github.com/Ifadha2004/Ifadha-Portfolio-) | Personal portfolio website | `HTML`, `CSS`, `JavaScript` |
+| [MealMinder](https://github.com/Ifadha2004/MealMinder) | AI Powered Dietary Management System | `ReactJs`, `CSS`, `Python`, `JavaScript` |
+| [DreamDay](https://github.com/Ifadha2004/WeddingPlanner_DreamDay) | Wedding Planner Application | `C#`, `HTML`, `CSS`, `ASP.NET MVC` |
 
 ---
 
 ### 📫 Let’s Connect
 
-- 📧 **Email**: `ifadha.dev@gmail.com`  
-- 💼 **LinkedIn**: [linkedin.com/in/ifadha](https://linkedin.com/in/ifadha)  
-- 🌍 **Portfolio**: *Coming soon with live project previews*  
+- 📧 **Email**: `ifadhaimran04@gmail.com`  
+- 💼 **LinkedIn**: [linkedin.com/in/ifadha](https://www.linkedin.com/in/ifadha-imran-016291369/)
+- 🌍 **Portfolio**: (https://ifadha-portfolio.netlify.app/)  
 
 ---
 
