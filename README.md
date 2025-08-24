@@ -7,7 +7,7 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=00D1FF&center=true&vCenter=true&width=600&lines=Graduate+Software+Engineer;Full-Stack+Developer;AI+%7C+Cloud+%7C+UI%2FUX+Enthusiast;Aspiring+Dubai+Tech+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=4000&pause=800&color=00D1FF&center=true&vCenter=true&width=600&lines=Graduate+Software+Engineer;Full-Stack+Developer;AI+%7C+Cloud+%7C+UI%2FUX+Enthusiast;" alt="Typing Animation" />
 </p>
 
 <!-- Profile Stats Row -->
